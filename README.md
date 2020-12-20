@@ -49,10 +49,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of the West of England (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
+- Illustration
+- 2.1
 - Other cool stuff
 
 #### Any other qualifications
