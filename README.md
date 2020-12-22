@@ -25,20 +25,20 @@ _Your job title_
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+#### Attention to detail
 
-- Experience
-- Achievements
-- Evidence
+Working as a freelance illustrator on large crowd scenes I had to ensure the highest attention to detail for every aspect of the image. Within the madness of the scenes I still had to ensure every character looked how I or the client wanted, make sure every colour matches the clients house style, ensure formatting of the design was spot on and making sure files were fit for purpose whether it was going to be displayed on a phone or a 4 metre tall window display. 
 
-#### Another Skill
+#### Creativity
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Creativity is a big part of my life and allows me think differently to the norm. Coming up with new solutions to clients needs excites me as well as in my life I'm always thinking how something could be changed to better it for looks as well as purpose. 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- www.charliefischer.co.uk
+
+#### Problem Solving
+
+I love the challenge of solving problems whether it's in coding or day to day life. I love adding to my repetoire as I learn new things to solve problems that aren't initially obvious - whether it's in developing a game or building a chair out of some reclaimed wood. 
+
 
 ## Education
 
@@ -54,11 +54,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Illustration BA(Hons)
 - 2.1
 
-#### University of the West of England (start_date to end_date)
-
-- Illustration
-- 2.1
-
 #### Buckinghamshire New University
 
 - Art Foundation
@@ -68,3 +63,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Sports - my enthusiasm tends to outweigh my playing ability
 - Drawing - I'm still working on the odd commission as a freelance illustrator turning the mundane into the fantastical. 
+- Carpentary - I love turning old palettes into furniture. 
