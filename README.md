@@ -54,5 +54,5 @@ I love the challenge of solving problems whether it's in coding or day to day li
 ## Hobbies
 
 - Sports - my enthusiasm tends to outweigh my playing ability
-- Drawing - I'm still working on the odd commission as a freelance illustrator turning the mundane into the fantastical. 
+- Drawing - I'm still working on the odd commission as a freelance illustrator; turning the mundane into the fantastical. 
 - Carpentary - I love turning old palettes into furniture. 
