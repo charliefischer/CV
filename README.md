@@ -11,19 +11,11 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Freelance Illustrator** (2018-present)  
 
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+- I've worked as a freelance illustrator for the past two years working on a massive range of projects, from tiny podcast logos up to 4 metre tall window displays. Working in this field has improved my ability to come up with new solutions to problems and briefs as well as making sure what I create meets the clients needs. 
 
 ## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### Attention to detail
 
