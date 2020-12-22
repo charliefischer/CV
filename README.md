@@ -42,23 +42,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January 2021 to March 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of The West of England (2015 to 2018)
 
-- Subject, any specialisms
-- Grade
+- Illustration BA(Hons)
+- 2.1
 - Other cool stuff
 
-#### Any other qualifications
+#### Buckinghamshire New University
 
-That in some arguable way make you a better software developer or well-rounded person
+- Art Foundation
+- Distinction
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Sports - my enthusiasm tends to outweigh my playing ability
+- Drawing - I'm still working on the odd commission as a freelance illustrator turning the mundane into the fantastical. 
