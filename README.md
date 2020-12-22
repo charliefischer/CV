@@ -53,7 +53,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Illustration BA(Hons)
 - 2.1
-- Other cool stuff
 
 #### Buckinghamshire New University
 
