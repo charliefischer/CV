@@ -49,18 +49,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-<<<<<<< HEAD
 #### University of The West of England (2015 to 2018)
 
 - Illustration BA(Hons)
 - 2.1
-=======
+
 #### University of the West of England (start_date to end_date)
 
 - Illustration
 - 2.1
-- Other cool stuff
->>>>>>> bf7e8d66a5ad1c081a671d82bb1cf78556b32426
 
 #### Buckinghamshire New University
 
